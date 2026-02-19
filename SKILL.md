@@ -3,8 +3,8 @@ name: analogical-reasoning
 description: Provide a framework for speaking meaningfully about transcendent realities (especially God) by distinguishing univocal, equivocal, and analogical predication. This enables meaningful theological la...
 license: MIT
 metadata:
-  version: 1.0.3379
   author: sethmblack
+  version: 1.0.3380
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - analogical-reasoning
